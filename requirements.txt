@@ -1,0 +1,29 @@
+# Core Python libraries
+pandas>=2.0
+numpy>=1.24
+requests>=2.31
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.12
+plotly>=5.18
+
+# SQL and DB interaction
+sqlalchemy>=2.0
+sqlite-utils>=3.35  # CLI/db util, optional but helpful
+
+# Machine Learning & Forecasting
+scikit-learn>=1.4
+torch>=2.2
+torchaudio>=2.2
+torchvision>=0.17
+
+# Google Cloud / Vertex AI
+google-cloud-aiplatform>=1.47.0
+google-cloud-bigquery>=3.16.0
+google-auth>=2.29
+google-api-python-client>=2.126
+
+# Jupyter (Optional but useful)
+notebook
+jupyterlab
