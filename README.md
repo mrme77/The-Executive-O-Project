@@ -93,5 +93,5 @@ pip install torch scikit-learn pandas numpy matplotlib pytorch-lightning pytorch
 ---
 
 **Author:**  
-*Your Name Here*  
+* MrMe77 
 *Date: June 2025*
